@@ -12,7 +12,7 @@ function initVars(){
 	seedTimer=0;seedInterval=5,seedLife=100;gravity=.02;
 	seeds=new Array();
 	sparkPics=new Array();
-	s="https://cantelope.org/NYE/";
+	s="https://srmcgann.github.io/fireworks/";
 	for(i=1;i<=10;++i){
 		sparkPic=new Image();
 		sparkPic.src=s+"spark"+i+".png";
